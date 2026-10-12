@@ -3,7 +3,7 @@
 This is a loader for Taiko no Tatsujin Nijiiro ver.  
 It currently supports the following versions:
 
-* JPN 00.18
+* JPN 00.18 
 * JPN 08.18
 * JPN 39.06
 * CHN 00.32 (based on JPN 32.09)
